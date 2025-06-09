@@ -1,7 +1,7 @@
 # Mini Blog Microservices
 
 Dự án này là một hệ thống blog nhỏ sử dụng kiến trúc microservices, gồm các thành phần:
-- **UserService** (quản lý người dùng, .NET)
+- **UserService** (quản lý người dùng, .NET + PostgreSQL)
 - **PostService** (quản lý bài viết, NodeJS + MongoDB)
 - **CommentService** (quản lý bình luận, NodeJS + MongoDB)
 - **APIGateway** (NodeJS, chuyển tiếp request)

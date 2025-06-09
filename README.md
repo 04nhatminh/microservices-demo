@@ -16,8 +16,7 @@ Dự án này là một hệ thống blog nhỏ sử dụng kiến trúc microse
 - **npm** >= 8.x  
 - **.NET SDK** >= 6.0  
 - **MongoDB** (cài local hoặc dùng MongoDB Atlas)
-- **Git** (để clone source)
-
+- **PostgreSQL** (cài local hoặc dùng cloud)
 ---
 
 ## 2. Cài đặt & chạy CSDL
